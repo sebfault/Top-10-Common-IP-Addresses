@@ -1,7 +1,5 @@
 Top-10-Common-IP-Addresses
 ==========================
-Challenge:
-
   Determine the top 10 most common source IP addresses, and their hit rates, for a fleet of 1000 web servers within the     last hour.
   
   The following assumptions may be used...
