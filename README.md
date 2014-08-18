@@ -9,4 +9,6 @@ Problem Statement:
   * web servers are locally writing access logs in the Apache Combined Log Format           (http://httpd.apache.org/docs/current/logs.html#combined).
   * web servers are accessible by ssh.
 
-Code and Documentation for 
+Solution uses a combination of python and linux commands.
+Documentation and explanation of code can be found by clicking the wiki:
+https://github.com/sebfault/Top-10-Common-IP-Addresses/wiki
